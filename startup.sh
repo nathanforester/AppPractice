@@ -4,7 +4,7 @@ sudo apt update
 
 sudo apt install python3-pip -y
 
-pip install -r /home/ubuntu/FlaskMovieDB2/requirements.txt
+pip install -r /home/ubuntu/AppPractice/requirements.txt
 
 python3 -m pip uninstall flask-sqlalchemy
 
